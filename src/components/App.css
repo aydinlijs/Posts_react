@@ -1,0 +1,30 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+.b-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0;
+}
+
+.b-post-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+.b-posts {
+    padding: 20px;
+}
+.b-post {
+    padding: 20px 0px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.b-center {
+    width: 250px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
